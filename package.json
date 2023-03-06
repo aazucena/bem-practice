@@ -16,7 +16,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
     "gh-pages": "^5.0.0",
     "parcel": "^2.8.3",
     "rimraf": "^4.3.1"
